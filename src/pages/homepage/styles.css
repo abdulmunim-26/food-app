@@ -31,3 +31,20 @@
     padding: 10px 50px;
     margin-bottom: 30px;
 }
+
+.favorites{
+    display: flex;
+    gap: 25px;
+    overflow: auto;
+    margin-bottom: 30px;
+}
+
+.favorites-wrapper{
+    flex-direction: column;
+    display: flex;
+}
+
+.search-favorites input{
+    padding: 10px 50px;
+    margin-bottom: 30px;
+}
